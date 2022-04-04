@@ -1,0 +1,19 @@
+{
+  "name": "m7-node-sockets",
+  "version": "1.0.0",
+  "description": "This Docker includes all what you need to run a Laravel PHP application.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/dantriano/m7-node-sockets.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/dantriano/m7-node-sockets/issues"
+  },
+  "homepage": "https://gitlab.com/dantriano/m7-node-sockets#readme"
+}
