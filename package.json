@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://gitlab.com/dantriano/m7-node-sockets/issues"
   },
-  "homepage": "https://gitlab.com/dantriano/m7-node-sockets#readme"
+  "homepage": "https://gitlab.com/dantriano/m7-node-sockets#readme",
+  "dependencies": {
+    "socket.io": "^4.4.1"
+  }
 }

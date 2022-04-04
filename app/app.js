@@ -28,6 +28,8 @@ app.use(express.static(path.join(__dirname, "public")));
 app.use("/", socketsRouter);
 app.use(handlerError);
 
+require('./io.js');
+
 /*Socket functions */
 
 module.exports = app;
